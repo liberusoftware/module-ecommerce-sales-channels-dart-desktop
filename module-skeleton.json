@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-sales-channels-dart-desktop",
+  "capabilityKey": "planned:ecommerce:sales-channels",
+  "presentation": "dart-desktop",
+  "package": "module_ecommerce_sales_channels_dart_desktop",
+  "foundation": "module-boilerplate-dart-desktop",
+  "foundationCommit": "5ccb3f077d7279dad684f2aa24e4c9d27f0d1246",
+  "canonicalPlan": "projects/ecommerce/nextjs/sales-channels.md",
+  "presentationPlan": "projects/ecommerce/features/sales-channels.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
